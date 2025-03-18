@@ -1,3 +1,5 @@
-Name: Johannes Grobler
-Location: Londom, United Kingdom
-Current Certification: Version Control
+Name: Johannes Grobler.
+
+Location: Londom, United Kingdom.
+
+Current Certification: Version Control.
